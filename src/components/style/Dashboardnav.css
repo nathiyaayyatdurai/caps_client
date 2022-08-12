@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&family=Poppins:wght@600;700;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.text{
+    font-size:50px;
+    font-family: 'Fascinate', cursive;
+   
+}
+.title{
+    font-family: 'Dancing Script', cursive;
+    font-size:40px;
+    letter-spacing:5px;
+    text-align: center;
+}
+a.link-list.m-2 {
+  
+    text-decoration: none;
+    color: black;
+    padding: 15px 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.dashboard-icon {
+    color: #292a2bb0;
+    
+}
+.top_nav_name{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.top_nav_role{
+    font-size: 14px;
+    color:#a1a9b1;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.css-et1ao3-MuiTypography-root {
+    margin: 0;
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 700;
+    font-size: 1.2rem!important;
+    line-height: 1.43;
+    letter-spacing: 0.01071em;
+    display: block;
+    color:#0c0d0f!important;
+}
+.css-83ijpv-MuiTypography-root {
+    margin: 0;
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.43;
+    letter-spacing: 0.01071em;
+    color: rgba(21, 20, 20, 0.6);
+    display: block;
+}
+.MuiCardHeader-avatar.css-1ssile9-MuiCardHeader-avatar {
+    font-size: 20px;
+    font-weight: 700;
+}
+button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.btn-login.css-107wbl-MuiButtonBase-root-MuiButton-root:hover {
+    background-color:#111112c2;
+}
+a.forgetpassword {
+    text-decoration: none;
+    color: gray;
+}
+.css-113fa14-MuiButtonBase-root-MuiButton-root{
+    margin: 0;
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.43;
+    letter-spacing: 0.01071em;
+    color: rgba(21, 20, 20, 0.6);
+    display: block;
+}
+.css-113fa14-MuiButtonBase-root-MuiButton-root:hover{
+    background-color:#111112c2!important;
+}
